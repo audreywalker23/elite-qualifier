@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+Audrey's description
 
 ## Table of Contents
 
