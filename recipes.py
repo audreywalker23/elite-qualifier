@@ -1,0 +1,3 @@
+banana_bread = ['Ripe bananas', 'Flour', 'Butter', 'Eggs', 'Baking Powder','Sugar', 'Walnut', 'Brown Sugar','Ground Cinnamon']
+Chocolate_chip_cookies = ['Chocolate chips', 'Butter', 'Sugar', 'Flour', 'Egg', 'Brown Sugar', 'Vanilla', 'Unsalted Butter']
+Red_Velvet_cake = ['Cream cheese', 'Butter', 'Vanilla', 'Flour', 'Red food coloring', 'Buttermilk', 'Egg', 'Sugar', 'Cocoa solids', 'Powdered Sugar', 'Baking Powder', 'Vanilla extract', 'All purpose flour', 'Unsalted butter']
